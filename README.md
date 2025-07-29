@@ -70,7 +70,7 @@ Maintain anonymity while performing automated data collection or media monitorin
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/senaxor/goproxyrotator.git
+git clone https://github.com/senaxor/go-proxy-rotator.git
 cd goproxyrotator
-go build -o goproxyrotator
+go build -o go-proxy-rotator
 
